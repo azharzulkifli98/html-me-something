@@ -1,0 +1,57 @@
+.every {
+    background-color: #e0e0e0;
+    margin: auto;
+    max-width: 600px;
+}
+
+.jaypegs {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    display: block;
+    padding: 0px 30px 80px 30px;
+}
+
+.reading {
+    font-family: Verdana;
+    text-align: center;
+    background-color: #999999;
+}
+
+.special {
+    font-size: 1.5em;
+    font-family: Garamond;
+    text-align: center;
+    color: #4a2d5e;
+    background-color: #62869b;
+}
+
+.outer {
+    font-size: .8em;
+    padding-top: 50px;
+
+}
+
+#first {
+    font-size: 2em;
+    font-weight: bold;
+    color: #f70b0b;
+}
+
+#second {
+    font-size: 2em;
+    font-weight: bold;
+    color: #37a5b4;
+}
+
+#third {
+    font-size: 2em;
+    font-weight: bold;
+    color: #450bb9;
+}
+
+#fourth {
+    font-size: 2em;
+    font-weight: bold;
+    color: #09bb12;
+}
